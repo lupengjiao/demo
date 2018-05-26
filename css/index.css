@@ -1,0 +1,230 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+}
+ul,ol,li{
+	list-style: none;
+}
+/* 中智信原 */
+.header{
+	height: 170px;
+	background-color: #eeeeef;
+}		
+.logo{
+	margin-left: 600px;
+	padding-top: 32px;
+}
+/* 导航 */
+.nav{
+	margin: 20px 400px;
+	width: 725px;
+	height: 45px;
+	background-color: #fff;
+	border-radius: 22px;
+}
+.nav li{
+	float: left;
+	font: 14px '微软雅黑';
+	color: #333333;
+  	background-color: rgb( 255, 255, 255 );
+  	padding: 0 30px;
+  	line-height: 45px;
+  	height: 45px;
+  	background: url('../tupian/3.gif') no-repeat right center;
+}
+.nav li a{
+	display: block;
+	height: 42px;
+	
+}
+.li8{
+	border-bottom: 3px solid #1e50ae;
+}
+.nav li:last-child{
+	background: none;
+}
+.zhong img{
+	width: 100%;
+	height: 405px;
+}
+/* 服务开始	 */
+.server{
+	width: 1200px;
+	height: 850px;
+	margin: 0 auto;	
+}
+.zi{
+	font: 26px '微软雅黑';
+	text-align: center;
+	margin-top: 40px;
+}	
+.english{
+	font: 26px 'Aparajita';
+	text-align: center;
+}
+.first img{
+	margin-top: 60px;
+}
+.second img{
+	margin-top: 60px;
+}
+.server ul{
+	width: 200px;
+	height: 451px;
+	display: inline-block;
+	float: left;
+}
+.server li{	
+	background: url(../tupian/6.png) no-repeat left center;
+	padding-left: 15px;
+	margin-top: 10px;
+	font: 16px ;
+	color:#909090;
+	margin-left: 45px;
+}
+.en{
+	padding-left: 45px;
+	font-size: 20px;
+	color: #333333;
+	font-family: '微软雅黑'；
+}
+.second{
+	padding-left: 120px;
+}
+.tu img{
+	width: 100%;
+	margin: 0 auto;
+}
+/* 最新资讯 */
+.zixun{
+	width: 100%;
+	height: 355px;
+	display: inline-block;
+	overflow: hidden;
+}
+.zixun img{
+	width: 700px;
+	height: 400px;
+	float: left;
+}
+.zizi{
+	width: 1500px;
+	height: 290px;
+	margin: 50px 800px;
+}
+.zi1{
+	font: 22px '微软雅黑';
+	padding-left: 20px;
+}
+.zi2{
+	color: #333333;
+	font: 18px lighter '微软雅黑';
+	padding-top: 40px;
+}
+.zi3{
+	width: 522px;
+	color: #969696;
+	font: 14px '微软雅黑';
+	padding-top: 20px;
+	line-height: 25px;
+}
+.zizi img{
+	padding-top: 15px;
+	width: 155px;
+	height: 69px;
+}
+.wenben ul{
+	display: inline-block;
+	float: left;
+}
+.wenben{
+	color: #979797;
+	font: 14px '微软雅黑';
+	line-height: 60px;
+	margin: 100px 175px;	
+}
+.wenben1{
+	border-bottom: 1px dashed #797979;
+}
+.wenben2{	
+	border-bottom: 1px dashed #797979;
+}
+.ul1{
+	float: left;
+}
+.ul2{
+	padding-left:  110px;
+}
+.xia img{
+	width: 100%;
+	padding-top: 50px;
+}
+.xiao{
+	background-color: #323232;
+}
+.silie{
+	width: 800px;
+	height:290px;
+	color: #ffffff;
+	float: left;
+}
+.silie ul{
+	padding-top: 80px;
+	display: inline-block;
+	float: left;
+}
+.si1{
+	padding-top: 38px ;
+	padding-left:200px;
+}
+.si11{
+	padding-top: 25px;
+	font-size:14px;	
+}
+.si12{
+	font-size: 20px;
+} 
+.si2{
+	padding-top: 38px;
+	padding-left: 80px;
+}
+.xiao img{
+	padding-top: 80px;
+	padding-left: 0px;
+}
+.si4{
+	padding-top:60px;
+	border-bottom: 1px solid #797979;
+}
+.nav1 {
+	margin:20px 350px;
+	width: 995px;
+	height: 55px;
+}
+.bottom{
+	background-color: #323232;
+	width: 100%;
+	height:100px;
+	margin-top: 50px;
+}
+.nav1 li{
+	display: inline-block;
+	float: left;
+	font: 16px '微软雅黑';
+	color: #ffffff;
+  	padding: 0 15px;
+  	line-height: 45px;
+  	height:45px;
+  	background: url('../tupian/3.gif') no-repeat right center;
+}
+.nav1 li:last-child{
+	background: none;
+}
+.zuihou{
+	font: 14px ;
+	color: #ffffff;
+	padding-left:600px;
+}
